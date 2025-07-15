@@ -75,5 +75,4 @@ Deliberative agents are the **thinkers** in the agent world. They’re useful wh
 - You want the agent to adapt or choose from multiple paths
 - You're building systems that involve reasoning, workflows, or decision trees
 
->←Previous: [Reactive Agents](02_reactive-agents.md)  
 > → Next: [Learn About Learning Agents »](04_learning-agents.md)
