@@ -32,11 +32,6 @@ Here's a quick overview of what this handbook covers:
 - Techniques for output parsing and refinement
 - Iterative prompting strategies
 
-### 🧰 Tools & Integrations
-- Tools that agents can use (email, calendar, file, etc.)
-- Building your own tools
-- Tips for tool chaining and workflows
-
 ### 🧱 Frameworks
 - Overview of agent frameworks: Langchain, CrewAI, Composio, Flowise
 - When to use each
