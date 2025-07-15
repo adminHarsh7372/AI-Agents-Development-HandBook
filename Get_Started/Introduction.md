@@ -78,4 +78,4 @@ All agents need sensors + actuators + decision logic
 ---
 *Let’s Deep Dive*
 
->***Start with **[AI Agents Architecture](./architecture/01_overview.md)** to understand the foundation of what AI agents really are — and how they work behind the scenes.***
+>***Start with **[AI Agents Architecture](./architecture/01_overview.)** to understand the foundation of what AI agents really are — and how they work behind the scenes.***
