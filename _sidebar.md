@@ -2,7 +2,7 @@
   - [Introduction](/Get_Started/Introduction.md)
 
 - 🧱 Architecture & Design
-  - [Overview](/Get_Started/architecture/01_overview.md)
+  - [Overview](/Get_Started/architecture/01_overview)
   - [Reactive Agents](/Get_Started/architecture/02_reactive-agents.md)
   - [Deliberative Agents](/Get_Started/architecture/03_deliberative-agents.md)
   - [Learning Agents](/Get_Started/architecture/04_learning-agents.md)
