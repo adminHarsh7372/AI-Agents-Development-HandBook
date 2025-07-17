@@ -102,5 +102,4 @@ smart-agent/
 
 > Start small with monolithic if needed, but shift to modular once your agent grows beyond a single use case.
 
-→ Done with agent architecture? Move on to [Large Language Models (LLMs) »](../llms/0_overview.md)
 

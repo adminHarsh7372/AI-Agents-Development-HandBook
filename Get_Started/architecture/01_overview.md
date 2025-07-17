@@ -30,7 +30,7 @@ Here's a quick summary of the main agent types:
 - No memory, no planning
 - Great for simple tasks (e.g., replying to emails)
 
-→ [Learn more about Reactive Agents »](./02_reactive-agents.md)
+
 
 ---
 
@@ -39,7 +39,6 @@ Here's a quick summary of the main agent types:
 - Can plan actions before execution
 - Use reasoning, goals, and decision-making
 
-→ [Explore Deliberative Agents »](./03_deliberative-agents.md)
 
 ---
 
@@ -48,7 +47,7 @@ Here's a quick summary of the main agent types:
 - Use techniques like RL (Reinforcement Learning)
 - Useful for long-term automation and dynamic tasks
 
-→ [Dive into Learning Agents »](./04_learning-agents.md)
+
 
 ---
 
@@ -56,8 +55,6 @@ Here's a quick summary of the main agent types:
 
 You'll also learn about **modular vs monolithic agent design** — an important choice when building production-ready systems.
 
-→ [Compare modular and monolithic agents »](./05_modular-vs-monolithic.md)
+
 
 ---
-
->-> **Start** [Reactive Agents](./02_reactive-agents.md)

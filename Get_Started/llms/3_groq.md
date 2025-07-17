@@ -87,4 +87,3 @@ Groq brings speed to the LLM game — ideal for fast, lightweight AI agents. Pai
 
 **For fast chatbots, inbox agents, or front-end helpers — Groq is 🔥.**
 
->***→ Next: [Explore Ollama (Local LLMs) »](4_ollama.md)***

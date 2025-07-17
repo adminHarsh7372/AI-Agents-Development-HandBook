@@ -97,7 +97,3 @@ Even with clear prompts, models can mess up. Here are strategies:
 - Structural validation – use JSON Schema or Pydantic to catch and reject invalid output
 
 ---
-
->-> Next: head over to ***[Iterative Methods](5_iterative-methods.md)*** to learn how to refine your prompts even more!
-
-

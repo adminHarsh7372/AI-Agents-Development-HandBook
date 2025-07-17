@@ -85,7 +85,7 @@ A: Let's think step by step.
 4. **Iterate** until it hits the mark.
 
 Master these basics and your AI agent will be ahead of the game. 
->*Ready for more? Check out **[advanced-techniques.md](3-advanced-techniques.md)** next!*
+
 
 
 

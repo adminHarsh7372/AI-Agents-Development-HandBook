@@ -89,4 +89,4 @@ Reactive agents are great for:
 > They’re not “dumb” — they’re just focused. Use them where they shine.
 
 
->→ **Next**: [Explore Deliberative Agents »](./03_deliberative-agents.md)
+

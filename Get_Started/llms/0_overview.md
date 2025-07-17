@@ -71,14 +71,13 @@ LLMs eliminate the need for hand-coded logic or rule-based flows. You can:
 
 In the next sections, you'll explore popular LLM options and how to use them in your agents:
 
-- [OpenAI (GPT)](./openai.md)
-- [Gemini (Google)](./gemini.md)
-- [Groq (Ultra-fast LLMs)](./groq.md)
-- [Ollama (Run LLMs Locally)](./ollama-local.md)
+- OpenAI (GPT)
+- Gemini (Google)
+- Groq (Ultra-fast LLMs)
+- Ollama (Run LLMs Locally)
 
 Each section covers:
 - Features
 - Setup
 - Usage in agent workflows
 
-→ Start with [OpenAI LLMs »](./1_openai.md)

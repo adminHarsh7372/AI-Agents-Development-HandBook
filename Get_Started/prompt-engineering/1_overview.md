@@ -82,5 +82,4 @@ You could dive into basic techniques like:
 - **Few-shot prompting** – Give 1–3 examples.
 - **Chain-of-thought** – Ask the AI to “think out loud.”
 
-**->Let’s level up your prompting game in [Basics](2_basics.md)👨‍💻**
 

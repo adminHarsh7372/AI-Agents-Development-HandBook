@@ -98,4 +98,3 @@ Gemini is a strong alternative to OpenAI — especially if you're already using 
 
 **For Gmail agents, calendar workflows, or document parsing — Gemini just makes sense.**
 
->***→ Next: [Explore Groq LLMs »](3_groq.md)***

@@ -97,4 +97,3 @@ Ollama is a powerful local-first alternative to cloud LLMs. It empowers develope
 - Serve them via API on localhost
 - Integrate with LangChain or LlamaIndex for agent workflows
 
->***→ Next up: [Comparison »](5_comparison.md)*** 

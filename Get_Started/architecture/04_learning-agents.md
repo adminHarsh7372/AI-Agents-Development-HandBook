@@ -86,5 +86,5 @@ Learning agents are **adaptive**, **smart**, and **self-improving**. They're ide
 
 > Not all agents need to learn — but for serious automation, learning makes them powerful.
 
-→ Next: [Compare Modular vs Monolithic Agent Design »](05_modular-vs-monolithic.md)
+
 

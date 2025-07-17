@@ -95,5 +95,3 @@ agent = Agent(role="email_handler", goal="Reply to important emails", llm=llm)
 OpenAI models are the gold standard for AI agents — flexible, powerful, and easy to plug into any workflow.
 
 **If you're just getting started, go with gpt-3.5. When you need smart decisions and better planning — upgrade to gpt-4 or gpt-4o.**
-
->***→ Next: [Explore Gemini LLMs »](2_gemini.md)***

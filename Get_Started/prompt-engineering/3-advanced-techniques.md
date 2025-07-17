@@ -159,5 +159,3 @@ With these tricks, your AI agents will be sharper, safer, and more creative—ju
 
 ---
 
->**-> Next: Parsing Outputs** 
-Learn how to structure and extract your LLM’s answers cleanly in **[Parsing-Outputs](4_parsing-outputs.md)**.
